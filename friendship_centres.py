@@ -228,8 +228,7 @@ centres = [
             "Cultural Resource Coordinator",
             "Healing and Wellness Coordinator Program",
             "Healthy Living Program",
-            "
-          "Health Outreach Worker Program",
+            "Health Outreach Worker Program",
             "Life Long Care Program",
             "Indigenous Friendship Centre Program"
         ]
@@ -586,4 +585,4 @@ if __name__ == "__main__":
         get_centre(args.name)
     else:
         print("Please provide a valid argument. Use --help for more info.")
-          
+            
